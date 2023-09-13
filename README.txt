@@ -6,4 +6,4 @@ The cell model is a minimal one and is provided mainly such that the code will r
 
 Please feel free to use as you like!
 
-Must cite the main paper (currently: https://doi.org/10.1101/2022.11.11.516084)
+Must cite the main paper (currently: https://www.nature.com/articles/s41598-023-39244-w)
