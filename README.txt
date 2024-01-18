@@ -1,4 +1,4 @@
-Please cite using Zenodo DOI: 10.5281/zenodo.10523247 
+Please cite using Zenodo DOI: 10.5281/zenodo.10523247 (https://doi.org/10.5281/zenodo.10523247) 
 
 This is an isolated and simple implementation of the network model in 2D and 3D.
 
